@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  width: 700px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.createButton {
+  margin-right: 6px;
+}
